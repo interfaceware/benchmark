@@ -1,0 +1,13 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "profiler.pepperfish"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1459532130",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

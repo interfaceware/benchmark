@@ -1,0 +1,25 @@
+<channel
+   name="Profile Lua Code"
+   guid="96EF8454BD57F15DE2CCBA84DE2FC90B"
+   description="This channel shows the use of the Pepperfish Lua profiler to accurately measure performance.&#xD;&#xA;&#xD;&#xA;It&apos;s good to run this headlessly as a channel and within the editor."
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_mapper
+      guid="Profile_Lua_Code-From-0S2Bzb17G3uwXk"
+      commit_id="047596fb0e5d6f4d2a5de0f14e47329210a5035d"
+      commit_comment="Put in more comments etc."
+      poll_time="10000">
+   </from_mapper>
+   <message_filter
+      filter_after_logging="false"
+      log_pre_post_filter_message="true"
+      filter_vmd_path=""
+      transformation_mode="0"
+      scripted_transformation_configuration_name="default"
+      error_handling="0"
+      use_translator_filter="true">
+   </message_filter>
+</channel>
