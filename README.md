@@ -1,1 +1,1 @@
-Various examples testing speed of different Lua coding styles.  Not really all that useful unless you have an interest in these things.
+Various examples testing speed of different Lua coding styles.  It also shows how to use the Pepperfish Lua profiler within Iguana.
